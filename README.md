@@ -1,16 +1,19 @@
-### Hi there 👋
+# About me
 
-<!--
-**JCaimo/jcaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋! I'm Juan, a DevOps Engineer with a background in cloud infrastructure, containerization, programming, and automation. I'm passionate about creating efficient solutions that improve operations and foster team collaboration. With a commitment to continuous learning and professional growth, I strive to contribute positively to any environment I'm part of.
 
-Here are some ideas to get you started:
+## What I Do
+As a DevOps Engineer at Jampp, I specialize in automating repetitive tasks, managing and optimizing cloud infrastructures, and enhancing deployment pipelines. My experience includes leading projects for access management platforms, cost optimization, and transitioning to IaC models using Terraform and Ansible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I’m Looking to Collaborate On
+I'm eager to collaborate on projects that leverage cloud technologies, automation, and containerization to solve complex challenges. If you're working on something that could benefit from my DevOps/SRE toolkit expertise or if you're interested in cost optimization and infrastructure scalability, let's connect!
+
+## Programming Languages
+- ![Python Logo](https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp)
+- ![Javascript Logo](https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png)
+- ![Bash Logo](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/256x256.png)
+- ![Terraform HCL Logo](https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/6b65163d8cfa1a2f2e63)
+
+## How to Reach Me
+- Email: [juan.caimo@outlook.com](mailto:juan.caimo@outlook.com)
+- LinkedIn: [linkedin.com/in/juan-caimo](https://linkedin.com/in/juan-caimo)
